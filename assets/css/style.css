@@ -37345,3 +37345,6 @@ footer.bg-dark.angled.upper-start:before {
   position: absolute;
   font-size: 90px;
 }
+.text-justify {
+  text-align: justify;
+}
